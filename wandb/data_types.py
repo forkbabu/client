@@ -207,7 +207,7 @@ class Table(Media):
     """
 
     MAX_ROWS = 10000
-    MAX_ARTIFACT_ROWS = 200000
+    MAX_ARTIFACT_ROWS = 2000000
     _MAX_EMBEDDING_DIMENSIONS = 150
     _log_type = "table"
 
